@@ -1,0 +1,19 @@
+#######################################
+# Syntax Coloring Map For skADT7410
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+skADT7410	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+Begin	KEYWORD2
+ActionMode	KEYWORD2
+Send	KEYWORD2
+Receive	KEYWORD2
+Read	KEYWORD2
+
